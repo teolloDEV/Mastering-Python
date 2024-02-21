@@ -11,7 +11,6 @@ kecil = text.lower()
 print(kecil)
 
 # Huruf pertama Besar
-
 awal = text.capitalize()
 print(awal)
 
